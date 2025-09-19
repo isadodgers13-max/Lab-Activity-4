@@ -1,0 +1,17 @@
+/final_project/
+├── docs/
+│   ├── Software_Design_Document/
+│   ├── Software_Requirement_Specification/
+│   ├── User_Manual/
+│   ├── Snapshot_Objectives/
+│   ├── TestRail_Documents/
+│   └── Workflow_Diagram/
+├── src/
+│   ├── logs/
+├── assets/
+├── tests/
+├── .gitignore
+├── final-project.txt
+├── repo-location.txt
+├── LICENSE (optional)
+└── README.md
